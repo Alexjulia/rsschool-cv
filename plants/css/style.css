@@ -491,10 +491,10 @@ padding: 34px 41px;
 
 .prices-item {
     display: flex;
-        justify-content:flex-start;
+        justify-content:space-between;
         width: 250px;
 height: 50px;
-padding: 16px 110px 16px 40px;
+padding: 16px 40px 16px 40px;
     background: #EDF2EC;
     border: 0px;
 border-radius: 20px;
@@ -504,6 +504,12 @@ font-weight: 700;
 font-size: 20px;
 line-height: 20px;
 color: #000000;
+}
+
+.imgbtn1 {
+    width: 16px;
+height: 16px;
+   
 }
 
 .prices-item:first-child {
