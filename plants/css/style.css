@@ -36,6 +36,12 @@ height: 50px;
     width: 79.17px;
     height: 21.04px;
     margin: 10px 0px 0px 0px;
+    font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+color: #000000;
 }
 
 .nav-list {
@@ -93,7 +99,7 @@ height: 407.36px;
     width: 549px;
 height: 340px;
 margin-left: 224.2px;
-margin-top: 36px;
+margin-top: 138px;
 }
 
 .b-plants:first-child {
@@ -110,7 +116,10 @@ h1 {
 font-size: 45px;
 line-height: 50px;
 color: #717171;
-margin: 0 auto;
+position: absolute;
+top: 98px;
+left: 782px;
+margin: 0;
 width: 549px;
 height: 101px;
 }
@@ -206,6 +215,9 @@ font-weight: 400;
 font-size: 40px;
 line-height: 52px;
 color: #499A18;
+position: absolute;
+top: 161px;
+left: 109px;
 margin: 0px;
 }
 
@@ -220,7 +232,7 @@ font-weight: 400;
 font-size: 20px;
 line-height: 30px;
 color: #636060;
-margin-top: 40px;
+margin-top: 142px;
 width: 605px;
 height: 208px;
 }
@@ -452,6 +464,9 @@ margin-left: 300px;
 }
 
    .prices-one {
+    position: absolute;
+    top: 40px;
+    left: 109px;
     margin-top: 0px;
     margin-bottom: 60px;
     width: 135px;
@@ -482,7 +497,7 @@ text-align: right;
    .prices-items {
     display: flex;
         flex-direction: column;
-        
+        margin-top: 106px;
     border: 1px solid #E3E1D5;
 border-radius: 20px;
 padding: 34px 41px;
