@@ -17,6 +17,13 @@ I am 26. I have two *humanitarian educations*. I came to RS.School to learn comp
 3. Audacity
 ## **Experience** 
 * I am excellent at writing diplomas and dissertations in the social sciences. Work experience 5 years.
+## **Code Example**
+``` function unusualFive() {
+ let str = 'Hodor';
+  let result = str.length;
+  return result;
+}
+```
 * I can do a lot, but not well.
 ## **Languages** 
 * Russian. Native speaker.
