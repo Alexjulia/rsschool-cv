@@ -6,3 +6,8 @@
 ## **About me**
 I am 26. I have two *humanitarian educations*. I came to RS.School to learn completely new skills. This is my second attempt. It's not easy for me. But I want to learn a new profession. And...yes, my english is bed. 
 > Is bed и огорчений.
+## **Education** 
+* South Ural State Institute of Arts. P.I.Chaikovsky.
+**Choreographer**
+* Chelyabinsk State Institute of Culture.
+**Culturologist**
