@@ -11,3 +11,13 @@ I am 26. I have two *humanitarian educations*. I came to RS.School to learn comp
 **Choreographer**
 * Chelyabinsk State Institute of Culture.
 **Culturologist**
+## **Skills**
+1. Adobe Lightroom 
+2. Figma
+3. Audacity
+## **Experience** 
+* I am excellent at writing diplomas and dissertations in the social sciences. Work experience 5 years.
+* I can do a lot, but not well.
+## **Languages** 
+* Russian. Native speaker.
+* English. A1-A2. In the process... 
