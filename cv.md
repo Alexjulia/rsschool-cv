@@ -18,7 +18,8 @@ I am 26. I have two *humanitarian educations*. I came to RS.School to learn comp
 ## **Experience** 
 * I am excellent at writing diplomas and dissertations in the social sciences. Work experience 5 years.
 ## **Code Example**
-``` function unusualFive() {
+```javascript
+function unusualFive() {
  let str = 'Hodor';
   let result = str.length;
   return result;
